@@ -1,0 +1,8 @@
+.idea/
+.vscode/
+.DS_Store
+
+resources/
+2025-bash.key
+notes.md
+presenterm/timemachine.gif
