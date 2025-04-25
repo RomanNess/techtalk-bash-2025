@@ -251,7 +251,17 @@ echo "🟢 file processed"
 ```bash +exec
 cowsay "Let's go back to the future!"
 ```
-
+<!-- end_slide -->
+## That's all folks
+<!-- column_layout: [1, 1] -->
+<!-- column: 0 -->
+```bash +exec
+figlet THANKS
+```
+<!-- column: 1 -->
+```bash +exec
+qrencode -m 2 -t utf8 <<< "https://github.com/RomanNess/techtalk-bash-2025"
+```
 
 
 
